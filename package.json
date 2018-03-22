@@ -10,6 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "npm": "^5.7.1",
     "tb-icons": "^0.2.70",
     "vue": "^2.5.16"
   },
